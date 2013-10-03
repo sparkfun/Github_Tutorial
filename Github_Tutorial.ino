@@ -13,7 +13,7 @@
 
 void setup()
 {
-  Serial.begin(9600);
+  Serial.begin(115200);
   Serial.println("Trimpot read example");
 
   pinMode(A0, INPUT);
@@ -27,6 +27,6 @@ void loop()
   Serial.print("The value is: ");
   Serial.println(myValue);
 
-  delay(250);
+  delay(100);
 }
 
