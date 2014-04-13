@@ -13,7 +13,7 @@
 
 void setup()
 {
-  Serial.begin(9600);
+  Serial.begin(4800);
   Serial.println("Trimpot read example");
 
   pinMode(A0, INPUT);
