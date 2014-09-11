@@ -28,5 +28,7 @@ void loop()
   Serial.println(myValue);
 
   delay(250);
+  
+  Serial.print("The best college football team is...");
 }
 
