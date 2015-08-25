@@ -17,6 +17,7 @@ void setup()
   Serial.println("Trimpot read example");
 
   pinMode(A0, INPUT);
+  pinMode(A0, INPUT);
 }
 
 void loop() 
