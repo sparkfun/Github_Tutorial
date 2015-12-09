@@ -14,7 +14,7 @@
 void setup()
 {
   Serial.begin(9600);
-  Serial.println("Trimpot read example");
+  Serial.println("Trimpot raed example");
 
   pinMode(A0, INPUT);
 }
@@ -22,10 +22,10 @@ void setup()
 void loop() 
 {
   byte myValue = 0;
-  myValue = analogRead(A0);
+  myValue = analogRead(A1);
   
   Serial.print("The value is: ");
-  Serial.println(myValue);
+  Serial.println(MyValue);
 
   delay(250);
 }
