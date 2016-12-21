@@ -25,7 +25,7 @@ void loop()
   myValue = analogRead(A0);
   
   Serial.print("The value is: ");
-  Serial.println(myValue);
+  Serial.println(MyValue);
 
   delay(250);
 }
