@@ -10,13 +10,14 @@
  If we have an analog sensor such as a trimpot or flex sensor on A0, this code would attempt
  to read it and output it to the terminal at 9600bps.
 */
+/* 2/5/2016, start using github*/
 
 void setup()
 {
   Serial.begin(9600);
   Serial.println("Trimpot read example");
 
-  pinMode(A0, INPUT);
+//  pinMode(A0, INPUT);
 }
 
 void loop() 
