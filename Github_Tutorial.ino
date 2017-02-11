@@ -21,7 +21,7 @@ void setup()
 
 void loop() 
 {
-  int myValue = 0;
+  int myValue = 0;  // does nobody know the difference between a byte and int?
   myValue = analogRead(A0);
   
   Serial.print("The value is: ");
