@@ -19,9 +19,12 @@ void setup()
   pinMode(A0, INPUT);
 }
 
+//Just add an comment. 
+// Best regards from Christian
+
 void loop() 
 {
-  byte myValue = 0;
+  int myValue = 0;
   myValue = analogRead(A0);
   
   Serial.print("The value is: ");
