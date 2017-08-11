@@ -9,6 +9,7 @@
  
  If we have an analog sensor such as a trimpot or flex sensor on A0, this code would attempt
  to read it and output it to the terminal at 9600bps.
+ thanks for ur tutorial nathan
 */
 
 void setup()
