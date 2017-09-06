@@ -14,7 +14,7 @@
 void setup()
 {
   Serial.begin(9600);
-  Serial.println("Trimpot read example");
+  Serial.println("Trimpot read example modified by Maux");
 
   pinMode(A0, INPUT);
 }
