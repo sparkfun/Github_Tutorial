@@ -21,12 +21,15 @@ void setup()
 
 void loop() 
 {
-  byte myValue = 0;
+  int myValue = 0;
   myValue = analogRead(A0);
+ 
+ /* I made a funny comment.
+  *  
+  */
   
   Serial.print("The value is: ");
   Serial.println(myValue);
 
   delay(250);
 }
-
