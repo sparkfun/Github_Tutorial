@@ -13,6 +13,7 @@
 
 void setup()
 {
+ serial.begin(400);
   Serial.begin(9600);
   Serial.println("Trimpot read example");
 
