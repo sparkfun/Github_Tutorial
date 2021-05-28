@@ -21,7 +21,7 @@ void setup()
 
 void loop() 
 {
-  int myValue = 0;			//added by h
+  int myValue = 0;			//555
   myValue = analogRead(A0);
   
   Serial.print("The value is: ");
