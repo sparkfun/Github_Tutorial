@@ -3,7 +3,7 @@
  Spark Fun Electronics
  Nathan Seidle
  
- This code is public domain but you buy me a beer if you use this and we meet someday (Beerware license).
+ this code is public domain but you buy me a beer if you use this and we meet someday (Beerware license).
  
  This is bad code but is used to demonstrate how to use repositories on github.
  
