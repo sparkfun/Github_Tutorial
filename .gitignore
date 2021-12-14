@@ -146,7 +146,7 @@ sdist
 develop-eggs
 .installed.cfg
 
-# Installer logs
+
 pip-log.txt
 
 # Unit test / coverage reports
@@ -156,7 +156,7 @@ pip-log.txt
 #Translations
 *.mo
 
-#Mr Developer
+
 .mr.developer.cfg
 
 # Mac crap
