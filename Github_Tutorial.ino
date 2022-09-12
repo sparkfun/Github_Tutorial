@@ -21,11 +21,11 @@ void setup()
 
 void loop() 
 {
-  byte myValue = 0;
-  myValue = analogRead(A0);
+  byte adcValue = 0;
+  adcValue = analogRead(A0);
   
-  Serial.print("The value is: ");
-  Serial.println(myValue);
+  Serial.print("The ADC value is: ");
+  Serial.println(adcValue);
 
   delay(250);
 }
