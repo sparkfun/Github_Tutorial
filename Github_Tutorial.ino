@@ -1,7 +1,7 @@
 /*
  12-29-2012
  Spark Fun Electronics
- Nathan Seidle
+ Nathan Seidle **and HTE**
  
  This code is public domain but you buy me a beer if you use this and we meet someday (Beerware license).
  
