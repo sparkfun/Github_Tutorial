@@ -27,6 +27,6 @@ void loop()
   Serial.print("The value of this is: ");
   Serial.println(myRate is);
 
-  delay(500);
+  delay(400);
 }
 
