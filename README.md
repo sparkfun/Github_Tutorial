@@ -3,5 +3,5 @@ A very basic and flawed piece of code to show how Github GUI works. and it is ve
 The accompanied tutorial can be found here:
 https://learn.sparkfun.com/tutorials/using-github
 
-More information at
+for More information follow the link belu
 https://guides.github.com/activities/hello-world/
