@@ -1,7 +1,7 @@
 # Github_Tutorial
-A very basic and flawed piece of code to show how Github GUI works.
+A very basic and flawed piece of code to show how Github GUI works. it is very usefull software.
 The accompanied tutorial can be found here:
 https://learn.sparkfun.com/tutorials/using-github
 
-More information at
+for more detail click on this link.
 https://guides.github.com/activities/hello-world/
